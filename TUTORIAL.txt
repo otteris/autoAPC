@@ -1,5 +1,9 @@
 Tutorial:
 
+INSTALLATION:
+git clone https://github.com/otteris/autoAPC.git
+
+
 1. Open up the terminal and navigate to the folder youve downloaded the software in.
 
 2. Type this in the terminal: python3 autoapc.py
