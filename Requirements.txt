@@ -1,0 +1,15 @@
+PYTHON VERSION:
+
+python 3x
+
+OS:
+
+Linux
+
+THINGS THAT NEED TO BE INSTALLED:
+
+Airmon-ng
+Airbase-ng
+Python 3x
+
+
