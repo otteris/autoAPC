@@ -1,0 +1,18 @@
+Tutorial:
+
+1. Open up the terminal and navigate to the folder youve downloaded the software in.
+
+2. Type this in the terminal: python3 autoapc.py
+
+3. Type your network interface in. If you dont know what it is, open another terminal and type in: ifconfig
+you should see something like: wlan0, eth0. If youre using wifi it's usually wlan0. So in my case type in wlan0. 
+
+4. Type in the new network interface name. You can see it in the terminal and if you have wifi and your previous network interface name was wlan0, now it should be something like wlan0mon, or mon0.
+
+5. Type in the name you want for the new access point. So if i was in a hotel called "Hotel Victoria", I would maybe want to enter: "Hotel Victoria free wifi" to lure unsuspecting customers of the hotel.
+
+6. Now youre done!
+
+7. DO NOT PRESS ANYTHING or you might close the access point. If you want to end the access point, press CTRL+Z or CTRL+C, or whatever is the button combination to close a running program/script. 
+
+
