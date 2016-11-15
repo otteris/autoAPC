@@ -19,4 +19,5 @@ you should see something like: wlan0, eth0. If youre using wifi it's usually wla
 
 7. DO NOT PRESS ANYTHING or you might close the access point. If you want to end the access point, press CTRL+Z or CTRL+C, or whatever is the button combination to close a running program/script. 
 
+8.Either run python3 aa.py, or type service wpa_supplicant start and service network-manager start into the terminal.
 
